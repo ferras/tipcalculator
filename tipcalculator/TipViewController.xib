@@ -238,7 +238,7 @@
 							<reference ref="4"/>
 						</array>
 					</object>
-					<object class="IBUIView" id="817153381">
+					<object class="IBUIView" id="385092035">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">292</int>
 						<string key="NSFrame">{{20, 128}, {258, 5}}</string>
@@ -372,7 +372,7 @@
 							<reference ref="938713738"/>
 							<reference ref="150382465"/>
 							<reference ref="229972811"/>
-							<reference ref="817153381"/>
+							<reference ref="385092035"/>
 						</array>
 						<reference key="parent" ref="0"/>
 					</object>
@@ -433,7 +433,7 @@
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">113</int>
-						<reference key="object" ref="817153381"/>
+						<reference key="object" ref="385092035"/>
 						<reference key="parent" ref="191373211"/>
 					</object>
 				</array>
